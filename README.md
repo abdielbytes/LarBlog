@@ -1,0 +1,2 @@
+# LarBlog
+A Laravel blog
